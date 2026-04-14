@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İade Koşulları | HaritaOfis</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 p-4 md:p-8 font-sans leading-relaxed">
+    <div class="max-w-4xl mx-auto bg-white p-6 md:p-10 rounded-xl shadow-sm border border-gray-100">
+        <h1 class="text-3xl font-bold mb-2 text-blue-900">İADE KOŞULLARI</h1>
+        <p class="mb-6 text-gray-500 italic">Son Güncelleme: 14 Nisan 2026</p>
+
+        <section class="mb-8">
+            <h2 class="text-xl font-semibold mt-6 mb-3 text-blue-800 border-b pb-2">GENEL:</h2>
+            <ol class="list-decimal list-inside space-y-3 ml-4">
+                <li>Kullanmakta olduğunuz web sitesi üzerinden elektronik ortamda sipariş verdiğiniz takdirde, size sunulan üyelik sözleşmesi ve mesafeli satış sözleşmesini kabul etmiş sayılırsınız.</li>
+                
+                <li>Alıcılar, satın aldıkları hizmetin satışı ile ilgili olarak 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği (RG:27.11.2014/29188) hükümleri ile yürürlükteki diğer yasalara tabidir.</li>
+                
+                <li><a href="https://www.haritaofis.com" class="text-blue-600 underline">www.haritaofis.com</a> üzerinden sunulan hizmetler dijital nitelikte olduğundan, fiziksel bir ürün gönderimi veya kargo süreci söz konusu değildir.</li>
+                
+                <li>Satın alınan dijital hizmet, ödeme onayını müteakip derhal veya taahhüt edilen süre içerisinde ALICI'nın erişimine açılır.</li>
+                
+                <li>Sunulan hizmetin imkansızlaşması durumunda, SATICI bu durumu öğrendiğinden itibaren 3 gün içinde yazılı olarak ALICI'ya bildirmek zorundadır. 14 gün içinde de toplam bedel ALICI'ya iade edilmelidir.</li>
+            </ol>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-xl font-semibold mt-6 mb-3 text-blue-800 border-b pb-2">SATIN ALINAN HİZMET BEDELİ ÖDENMEZ İSE:</h2>
+            <ol class="list-decimal list-inside space-y-3 ml-4" start="6">
+                <li>ALICI, satın aldığı hizmet bedelini ödemez veya banka kayıtlarında iptal ederse, SATICI'nın hizmeti sağlama ve erişime açık tutma yükümlülüğü sona erer.</li>
+            </ol>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-xl font-semibold mt-6 mb-3 text-blue-800 border-b pb-2">KREDİ KARTININ YETKİSİZ KULLANIMI:</h2>
+            <ol class="list-decimal list-inside space-y-3 ml-4" start="7">
+                <li>Ödeme yapıldıktan sonra, kredi kartının yetkisiz kişilerce haksız kullanımı tespit edilirse ve hizmet bedeli banka tarafından SATICI'ya ödenmez ise, ALICI'nın hizmete erişimi derhal durdurulur.</li>
+            </ol>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-xl font-semibold mt-6 mb-3 text-blue-800 border-b pb-2">CAYMA HAKKI:</h2>
+            <ol class="list-decimal list-inside space-y-3 ml-4" start="8">
+                <li><strong>Cayma Hakkı İstisnası:</strong> 27.11.2014 tarihli Mesafeli Sözleşmeler Yönetmeliği'nin 15. maddesi uyarınca; "Elektronik ortamda anında ifa edilen hizmetler veya tüketiciye anında teslim edilen gayri maddi mallara ilişkin sözleşmelerde" cayma hakkı kullanılamaz. HaritaOfis bir dijital yazılım hizmeti olduğundan, hizmetin ALICI'ya tanımlanması ve kullanımın başlamasıyla birlikte iade süreci bu madde kapsamında değerlendirilir.</li>
+                
+                <li>Ancak SATICI, müşteri memnuniyeti kapsamında, hizmet aktif edildikten sonraki ilk 7 (yedi) gün içerisinde gelen makul iade taleplerini değerlendirmeye alabilir.</li>
+            </ol>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-xl font-semibold mt-6 mb-3 text-blue-800 border-b pb-2">CAYMA HAKKI BİLDİRİMİ YAPILACAK İLETİŞİM BİLGİLERİ:</h2>
+            <ul class="list-disc list-inside space-y-2 ml-4">
+                <li><strong>Şirket Unvanı:</strong> Bm Tan Mühendislik İnş. Tur. Ve Tic. Ltd. Şti.</li>
+                <li><strong>Adres:</strong> Bitez Mah. 1951 sok. No. 6 Bodrum Muğla</li>
+                <li><strong>E-posta:</strong> info@bmtanmuhendislik.com</li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-xl font-semibold mt-6 mb-3 text-blue-800 border-b pb-2">CAYMA HAKKININ KULLANILAMAYACAĞI DURUMLAR:</h2>
+            <ol class="list-decimal list-inside space-y-3 ml-4" start="10">
+                <li>ALICI'nın onayı ile 14 günlük cayma hakkı süresi sona ermeden önce ifasına başlanan hizmetlerde cayma hakkı kullanılamaz.</li>
+                
+                <li>Yazılım programları ve dijital içerikler, ambalajı/erişimi açıldığı andan itibaren yönetmelik gereği iade edilemez.</li>
+            </ol>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-xl font-semibold mt-6 mb-3 text-blue-800 border-b pb-2">TEMERRÜT HALİ VE HUKUKİ SONUÇLARI:</h2>
+            <ol class="list-decimal list-inside space-y-3 ml-4" start="12">
+                <li>ALICI, kredi kartı ile yaptığı işlemlerde temerrüde düştüğü takdirde, banka ile arasındaki kredi kartı sözleşmesi çerçevesinde faiz ödeyeceğini ve bankaya karşı sorumlu olacağını kabul eder. Bu durumda Bodrum Mahkemeleri ve İcra Daireleri yetkilidir.</li>
+            </ol>
+        </section>
+
+        <section class="mb-8">
+            <h2 class="text-xl font-semibold mt-6 mb-3 text-blue-800 border-b pb-2">ÖDEME VE TESLİMAT:</h2>
+            <ol class="list-decimal list-inside space-y-3 ml-4" start="13">
+                <li><strong>Banka Havalesi veya EFT:</strong> Aşağıdaki hesaba gerçekleştirebilirsiniz:
+                    <ul class="list-disc list-inside ml-6 mt-2 space-y-1">
+                        <li><strong>Banka:</strong> T. Garanti Bankası A.Ş. (Bitez Şubesi)</li>
+                        <li><strong>Hesap Sahibi:</strong> Bm Tan Mühendislik İnş. Tur. Ve Tic. Ltd. Şti.</li>
+                        <li><strong>IBAN:</strong> <span class="font-mono bg-gray-100 px-2 py-1 rounded">TR69 0006 2001 3310 0006 2981 15</span></li>
+                    </ul>
+                </li>
+                
+                <li><strong>Kredi Kartı:</strong> Sitemiz üzerinden Sanal POS aracılığıyla güvenli ödeme yapabilirsiniz. Ödeme onaylandığında hizmetiniz otomatik olarak aktif edilecektir.</li>
+            </ol>
+        </section>
+
+        <div class="mt-10 p-4 bg-gray-100 rounded text-sm text-gray-600">
+            <p><strong>Bildirim İçin İletişim:</strong><br>
+            Bm Tan Mühendislik İnş. Tur. Ve Tic. Ltd. Şti.<br>
+            Bitez Mah. 1951 sok. No. 6 Bodrum / Muğla<br>
+            E-posta: info@bmtanmuhendislik.com</p>
+        </div>
+
+        <div class="mt-8 text-center">
+            <a href="index.html" class="text-blue-600 hover:underline">← Ana Sayfaya Dön</a>
+        </div>
+    </div>
+</body>
+</html>
