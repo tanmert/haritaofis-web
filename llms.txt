@@ -1,0 +1,22 @@
+# Harita Ofis
+
+> Harita Ofis, harita mühendisliği ofisleri için geliştirilmiş web tabanlı bir iş takip, HKMO tarifesine uygun teklif hazırlama ve ön muhasebe yönetim yazılımıdır (SaaS). Bm Tan Mühendislik İnş. Tur. Ve Tic. Ltd. Şti. tarafından geliştirilmiştir ve Bodrum, Türkiye merkezlidir.
+
+Harita Ofis; iş/teklif takibi, HKMO tarifesine uygun otomatik fiyat hesaplama, ajanda ve finansal hatırlatıcılar, cari hesap ve fatura yönetimi, personel/demirbaş/zimmet takibi gibi modülleri tek platformda birleştirir. Kullanıcı başına ücretlendirme yoktur; abonelik paketi (aylık, 6 aylık, yıllık) seçilir ve sınırsız/ekip halinde kullanılabilir.
+
+## Ürün
+
+- [Ana Sayfa](https://bmtan.com/): Harita Ofis'in özellikleri, nasıl çalıştığı ve fiyatlandırma bilgisi.
+- [Uygulamaya Giriş](https://app.haritaofis.com): Mevcut kullanıcıların Harita Ofis'e giriş yaptığı uygulama adresi.
+- [Eğitim Videoları](https://www.youtube.com/@Harita_ofis): Harita Ofis kullanım videoları (YouTube kanalı).
+
+## Yasal ve Politikalar
+
+- [Gizlilik Politikası ve KVKK Aydınlatma Metni](https://bmtan.com/gizlilik.html): Kişisel verilerin işlenmesi hakkında bilgilendirme.
+- [Kullanım Şartları](https://bmtan.com/kosullar.html): Hizmet kullanım koşulları, paket detayları, fesih ve sorumluluk şartları.
+- [İade Koşulları](https://bmtan.com/iade-kosullari.html): Dijital hizmet iade ve cayma hakkı koşulları.
+- [Mesafeli Satış Sözleşmesi](https://bmtan.com/mesafeli-satis.html): Elektronik ortamda satın alma sözleşmesi.
+
+## Şirket
+
+Bm Tan Mühendislik İnş. Tur. Ve Tic. Ltd. Şti. — Bitez Mah. 1951 Sok. No. 6, Bodrum / Muğla. İletişim: info@bmtanmuhendislik.com, 0252 313 30 23.
